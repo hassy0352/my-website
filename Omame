@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Omame</title>
+</head>
+<body>
+
+<h1>Welcome to My Page!!!</h1>
+
+<img src="無題16_20220307162650.jpeg" width="300px">
+
+<h2>About Me</h2>
+<p>Hi guys!! My name is Shusuke Hashimoto. I was born and raised in Kyoto, Japan. 100 percent Japanese.</p>
+
+<p> Grew up in Kyotanabe city, where the vibes are super nice and there are a bunch of restaurants and supermarkets. You can do anything you want here!! I love envisioning what it is going to be like in a few decades, specifically in terms of educational dimensions. At the end of the day, education has the potential to shape our perspectives, groundwork, and properties. Now that we've got incredibly cutting-edge techs, why don't we grow up along with AI? And why don't we try to explore how the "education-AI" combination plays out? These questions drew me to the field of Computational Linguistics that I am going to study as a Master's program. Hopefully, I am going to create an education-oriented grammar checker for future students, business workers, and people from all walks of life!! Pretty excited to deep dive into what I am trying to learn, and keep contributing to this dynamic and international society for a long time to come!
+</p>
+
+<h2>Fun Facts</h2>
+<ul class="fun-facts">
+<li>
+A native Japanese speaker, but sometimes speaks gibberish. Let's not doubt my capability.
+</li>
+<li>
+Have been playing baseball ever since I was a little kid. Very proud of myself for being a secret knuckleballer.
+</li>
+<li>
+Big fan of playing golf. I am right-handed, as opposed to the left-handed hitter when playing baseball. 
+</li>
+<li>
+Onion is the best food ever. Pretty sure no one is gonna complain about that.
+</li>
+<li>
+An absolute regular at Starbucks. Hopping 3 places on strict rotation so that every staff finds it pretty hard to remember me (I guess). Damn it such a human-shy boy.
+</li>
+<li>
+A beginner at learning Spanish. Me: "hablo un poco de Español" Spanish Speaker: "Oye, hablas Español?" "Pero Inglés o Japonés por favor" is my go-to dialogue so far.
+</li>
+<li>
+Collin Morikawa is my role model as a golfer and an English speaker. 
+(Shout out to these YouTube channels,  <a href="http://www.youtube.com/@TenGolf07">TenGolf</a>  and  <a href="http://www.youtube.com/@TAYLORMADEGOLF">TaylorMade Golf</a>,  for giving me tons of opportunities to emulate him!)
+</li>
+</ul>
+
+<h2>Social Media</h2>
+<h4>If you are interested, pls hit the subscribe/connect button!</h4>
+<p>Youtube: <a href="http://www.youtube.com/@-omame122">おまめ-Omame</a></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/shusuke-hashimoto-b06323224/">Shusuke Hashimoto</a></p>
+
+<h2>Additional Pics</h2>
+
+<img src="IMG_5466 copy.JPG" width="200px">
+<img src="Untitled26_20220519092907 copy.PNG" width="200px">
+<img src="Untitled33_20220718115634 copy.PNG" width="270px">
+
+
+</body>
+</html>
